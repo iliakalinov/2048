@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9cc5457cb0f8e849bcab13f77ba37d7, type: 3}
+  m_Name: New Color C Ontroller
+  m_EditorClassIdentifier: Assembly-CSharp::ColorCOntroller
+  Colors:
+  - {r: 0.15213627, g: 0.4433962, b: 0.14849591, a: 0}
+  - {r: 0.61775166, g: 0.6415094, b: 0.09380562, a: 0}
+  - {r: 0.7264151, g: 0.18845676, b: 0.18845676, a: 0}
+  - {r: 0.7169812, g: 0, b: 0.5630824, a: 0}
+  - {r: 0.19498087, g: 0.09380562, b: 0.6415094, a: 0}
+  - {r: 0.062611245, g: 0.29644787, b: 0.6320754, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
